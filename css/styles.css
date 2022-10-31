@@ -476,7 +476,8 @@ img {
   transition: color 250ms var(--transition);
 }
 
-.close-modal-btn:hover {
+.close-modal-btn:hover,
+.close-modal-btn:focus {
   color: var(--focus-color);
 }
 
