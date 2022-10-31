@@ -517,7 +517,7 @@ img {
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
   position: relative;
-  transition: color, border 250ms var(--focus-color);
+  transition: color, border 250ms var(--transition);
 }
 
 .form-input:focus,
